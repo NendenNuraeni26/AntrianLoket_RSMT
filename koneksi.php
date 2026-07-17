@@ -1,8 +1,8 @@
 <?php
-$host="192.168.10.10";
-$user="nenden";
-$pass="1234567";
-$db="rsmt";
+$host="192.168.x.x";
+$user="nendencantik";
+$pass="1234567cvg";
+$db="dbmu";
 
 $conn = new mysqli($host,$user,$pass,$db);
 
